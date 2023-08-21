@@ -1,0 +1,216 @@
+NewUsed,Year,Make,Model,ModelNumber,ExteriorColor,EngineCylinders,Trim,Doors,VIN,SellingPrice,Miles,Certified,EPACity,EPAHighway,FuelType,DriveTrain,TransmissionDescription
+USED,2021,Jeep,Grand Cherokee,WKJH74,Bright White Clearcoat,6,Laredo X 4x4,4,1C4RJFAG5MC537812,36988,38678,FALSE,18,25,Gasoline,Four Wheel Drive,8-Speed Automatic
+USED,2021,Dodge,Durango,WDEH75,Billet Metallic Clearcoat,6,GT AWD,4,1C4RDJDG9MC579339,40555,11588,FALSE,18,25,Gasoline,All Wheel Drive,8-Speed Automatic
+USED,2021,Ram,1500,DT6H98,Bright White Clearcoat,6,"Big Horn 4x4 Crew Cab 5'7"" Box",4,1C6SRFFT9MN693945,46988,27089,FALSE,17,22,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2022,Ram,2500,DJ7H91,Granite Crystal Metallic Clearcoat,8,"Big Horn 4x4 Crew Cab 6'4"" Box",4,3C6UR5DL2NG129117,68050,270,FALSE,0,0,Diesel,Four Wheel Drive,6-Speed Automatic
+NEW,2022,Jeep,Grand Wagoneer,WSJR75,Baltic Gray Metallic Clearcoat,8,Series I 4x4,4,1C4SJVEJ5NS110364,92825,2863,FALSE,13,18,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2022,Jeep,Grand Wagoneer,WSJS75,Diamond Black Crystal Pearlcoat,8,Series II 4x4,4,1C4SJVFJ3NS142132,103625,4699,FALSE,13,18,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2022,Ram,1500,DT6H98,Granite Crystal Metallic Clearcoat,6,"Big Horn 4x4 Crew Cab 5'7"" Box",4,1C6RRFFG2NN220357,55480,77,FALSE,19,24,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2022,Jeep,Cherokee,KLJH74,Granite Crystal Metallic Clearcoat,6,Trailhawk 4x4,4,1C4PJMBX0ND518025,42780,4000,FALSE,18,24,Gasoline,Four Wheel Drive,9-Speed 948TE Automatic
+NEW,2022,Jeep,Gladiator,JTJP98,Black Clearcoat,6,High Altitude 4x4,4,1C6HJTFG8NL180525,58800,53,FALSE,17,22,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2022,Jeep,Cherokee,KLJP74,Sting-Gray Clearcoat,6,Limited 4x4,4,1C4PJMDX5ND542933,41285,4,FALSE,19,27,Gasoline,Four Wheel Drive,9-Speed 948TE Automatic
+NEW,2022,Jeep,Cherokee,KLJP74,Granite Crystal Metallic Clearcoat,6,Limited 4x4,4,1C4PJMDXXND542930,41285,4112,FALSE,19,27,Gasoline,Four Wheel Drive,9-Speed 948TE Automatic
+NEW,2022,Dodge,Challenger,LADR22,White Knuckle Clearcoat,8,SRT Hellcat RWD,2,2C3CDZC95NH205577,77415,19,FALSE,13,22,Gasoline,Rear Wheel Drive,8-Speed Automatic
+NEW,2022,Jeep,Cherokee,KLJP74,Bright White Clearcoat,6,Limited 4x4,4,1C4PJMDX8ND544577,43580,5,FALSE,19,27,Gasoline,Four Wheel Drive,9-Speed 948TE Automatic
+NEW,2022,Jeep,Cherokee,KLJP74,Diamond Black Crystal Pearlcoat,6,Limited 4x4,4,1C4PJMDX6ND542925,41285,5,FALSE,19,27,Gasoline,Four Wheel Drive,9-Speed 948TE Automatic
+NEW,2022,Jeep,Grand Cherokee 4xe,WLXT74,Bright White Clearcoat,4,Summit 4x4,4,1C4RJYE68N8749041,74665,13,FALSE,,,Hybrid,Four Wheel Drive,8-Speed Automatic
+NEW,2022,Chrysler,Pacifica,RUEH53,Bright White Clearcoat,6,Hybrid Touring L FWD,4,2C4RC1L74NR213852,51003,12,FALSE,,,Hybrid,Front Wheel Drive,CVT
+NEW,2022,Jeep,Grand Cherokee 4xe,WLXP74,Bright White Clearcoat,4,4x4,4,1C4RJYB69N8759114,65950,5,FALSE,,,Hybrid,Four Wheel Drive,8-Speed Automatic
+NEW,2022,Ram,1500,DT6H41,Bright White Clearcoat,6,"Big Horn 4x4 Quad Cab 6'4"" Box",4,1C6RRFBG8NN461538,54990,10,FALSE,19,24,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2022,Jeep,Grand Cherokee 4xe,WLXT74,Hydro Blue Pearlcoat,4,Summit Reserve 4x4,4,1C4RJYE60N8759112,80065,0,FALSE,,,Hybrid,Four Wheel Drive,8-Speed Automatic
+NEW,2022,Jeep,Grand Cherokee 4xe,WLXT74,Midnight Sky,4,Summit Reserve 4x4,4,1C4RJYE62N8759113,80065,97,FALSE,,,Hybrid,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Gladiator,JTJL98,Sarge Green Clearcoat,6,Sport S 4x4,4,1C6HJTAG3PL504989,53490,13,FALSE,17,23,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2021,Ram,1500,DT6H98,Bright White Clearcoat,6,"Big Horn 4x4 Crew Cab 5'7"" Box",4,1C6SRFFT2MN579818,54530,5,FALSE,17,22,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2022,Chrysler,Pacifica,RUCH53,Bright White Clearcoat,6,Touring L FWD,4,2C4RC1BG7NR196014,42133,4597,FALSE,19,28,Gasoline,Front Wheel Drive,9-Speed 948TE Automatic
+NEW,2022,Chrysler,Pacifica,RUEH53,Bright White Clearcoat,6,Hybrid Touring L FWD,4,2C4RC1L74NR173997,51003,0,FALSE,,,Hybrid,Front Wheel Drive,CVT
+NEW,2022,Chrysler,Pacifica,RUEH53,Fathom Blue Pearlcoat,6,Hybrid Touring L FWD,4,2C4RC1L76NR213853,51498,5,FALSE,,,Hybrid,Front Wheel Drive,CVT
+NEW,2022,Chrysler,Pacifica,RUEH53,Ceramic Gray Clearcoat,6,Hybrid Touring L FWD,4,2C4RC1L77NR216955,51498,6,FALSE,,,Hybrid,Front Wheel Drive,CVT
+USED,2019,Jeep,Cherokee,KLJP74,Diamond Black Crystal Pearlcoat,6,Limited 4x4,4,1C4PJMDX6KD484486,25888,28278,FALSE,19,27,Gasoline,Four Wheel Drive,9-Speed 948TE Automatic
+NEW,2022,Ram,1500,DT6M98,Billet Silver Metallic Clearcoat,8,"Limited 4x4 Crew Cab 5'7"" Box",4,1C6SRFHT6NN455226,75595,381,FALSE,15,21,Gasoline,Four Wheel Drive,8-Speed Automatic
+USED,2022,Jeep,Grand Cherokee 4xe,WLXT74,Midnight Sky,4,Summit Reserve 4x4,4,1C4RJYE61N8749043,75160,2173,FALSE,,,Hybrid,Four Wheel Drive,8-Speed Automatic
+NEW,2022,Jeep,Compass,MPJP74,Sting-Gray Clearcoat,4,Limited 4x4,4,3C4NJDCB7NT233228,38815,12,FALSE,22,30,Gasoline,Four Wheel Drive,9-Speed 948TE Automatic
+NEW,2022,Jeep,Compass,MPJE74,Diamond Black Crystal Pearlcoat,4,Latitude Lux,4,3C4NJDFB7NT223360,37065,12,FALSE,22,30,Gasoline,Four Wheel Drive,9-Speed 948TE Automatic
+NEW,2023,Jeep,Grand Cherokee 4xe,WLXS74,Bright White Clearcoat,4,Overland 4x4,4,1C4RJYD63P8802085,71830,5,FALSE,,,Hybrid,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Grand Cherokee 4xe,WLXS74,Bright White Clearcoat,4,Overland 4x4,4,1C4RJYD65P8802086,71830,15,FALSE,,,Hybrid,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Wrangler 4xe,JLXL74,Granite Crystal Metallic Clearcoat,4,4x4,4,1C4JJXN6XPW599309,60640,8,FALSE,,,Hybrid,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Grand Cherokee 4xe,WLXP74,Bright White Clearcoat,4,4x4,4,1C4RJYB65P8784336,65950,12,FALSE,,,Hybrid,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Gladiator,JTJL98,Granite Crystal Metallic Clearcoat,6,Sport S 4x4,4,1C6HJTAG1PL504988,53490,12,FALSE,17,23,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Ram,1500,DT6H91,Bright White Clearcoat,8,"Big Horn 4x4 Crew Cab 6'4"" Box",4,1C6SRFMT2PN533042,60365,105,FALSE,17,22,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Wrangler 4xe,JLXL74,White Knuckle Clearcoat,4,4x4,4,1C4JJXN66PW604649,60145,15,FALSE,,,Hybrid,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Grand Wagoneer,WSJS75,Diamond Black Crystal Pearlcoat,6,Series II Obsidian 4x4,4,1C4SJVFJ2PS505734,103230,12,FALSE,13,18,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Grand Wagoneer,WSJS75,Diamond Black Crystal Pearlcoat,6,Series II Obsidian 4x4,4,1C4SJVFJ9PS505732,103230,16,FALSE,13,18,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Ram,1500,DT6M98,Bright White Clearcoat,8,"Limited 4x4 Crew Cab 5'7"" Box",4,1C6SRFHM9PN513681,84660,9,FALSE,21,29,Diesel,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Wrangler 4xe,JLXL74,Sarge Green Clearcoat,4,4x4,4,1C4JJXN66PW604652,60640,12,FALSE,,,Hybrid,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Grand Cherokee 4xe,WLXP74,Bright White Clearcoat,4,4x4,4,1C4RJYB60P8784339,65950,5,FALSE,,,Hybrid,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Dodge,Durango,WDES75,DB Black Crystal Clearcoat,8,R/T Plus AWD,4,1C4SDJCT6PC559392,66875,80,FALSE,14,22,Gasoline,All Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Wrangler,JLJL74,Black Clearcoat,6,Willys 4 Door 4x4,4,1C4HJXDG9PW563149,61395,5,FALSE,19,24,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Wrangler,JLJS74,Sting-Gray Clearcoat,6,Rubicon 4 Door 4x4,4,1C4JJXFM6PW584061,63705,5,FALSE,21,26,Diesel,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Grand Wagoneer,WSJS75,Diamond Black Crystal Pearlcoat,6,Series II Obsidian 4x4,4,1C4SJVFJ0PS505733,103230,12,FALSE,13,18,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Ram,1500,DT6X98,Bright White Clearcoat,6,"Rebel 4x4 Crew Cab 5'7"" Box",4,1C6SRFLT2PN537657,73305,18,FALSE,17,22,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Ram,1500,DT6H98,Diamond Black Crystal Pearlcoat,6,"Big Horn 4x4 Crew Cab 5'7"" Box",4,1C6RRFFG7PN549106,58070,8,FALSE,19,24,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Wrangler,JLJL74,High Velocity Clearcoat,6,Sport 4 Door 4x4,4,1C4HJXDGXPW622547,46245,5,FALSE,19,24,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Compass,MPJM74,Bright White Clearcoat,4,Latitude 4x4,4,3C4NJDBN3PT502100,35885,13,FALSE,24,32,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Compass,MPJM74,Bright White Clearcoat,4,Latitude 4x4,4,3C4NJDBN5PT502101,35885,5,FALSE,24,32,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Compass,MPJM74,Bright White Clearcoat,4,Latitude 4x4,4,3C4NJDBN9PT502103,35885,7,FALSE,24,32,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Ram,2500,DJ7L62,Bright White Clearcoat,8,Tradesman 4x4 Reg Cab 8' Box,2,3C6MR5AJ9PG518147,57180,5,FALSE,,,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Grand Cherokee L,WLJT75,Bright White Clearcoat,6,Summit Reserve 4x4,4,1C4RJKETXP8725376,78380,15,FALSE,14,22,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Grand Cherokee 4xe,WLXR74,Baltic Gray Metallic Clearcoat,4,Trailhawk 4x4,4,1C4RJYC66P8784313,68995,14,FALSE,,,Hybrid,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Renegade,BVJM74,Alpine White Clearcoat,4,Altitude 4x4,4,ZACNJDE10PPP10500,35030,11,FALSE,23,29,Gasoline,Four Wheel Drive,9-Speed 948TE Automatic
+NEW,2023,Ram,2500,DJ7X91,Olive Green Pearlcoat,8,"Power Wagon 4x4 Crew Cab 6'4"" Box",4,3C6TR5EJ3PG517551,83250,0,FALSE,,,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Ram,ProMaster Cargo Van,VF2L13,Bright White Clearcoat,6,"2500 High Roof 136"" WB",3,3C6LRVCGXPE529859,54485,0,FALSE,,,Gasoline,Front Wheel Drive,9-Speed 948TE Automatic
+NEW,2023,Ram,1500,DT6P98,Bright White Clearcoat,6,"Laramie 4x4 Crew Cab 5'7"" Box",4,1C6SRFJT9PN555723,66300,5,FALSE,17,22,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Dodge,Durango,WDES75,Destroyer Gray Clearcoat,8,R/T Plus AWD,4,1C4SDJCT0PC581890,61775,5,FALSE,14,22,Gasoline,All Wheel Drive,8-Speed Automatic
+NEW,2023,Ram,2500,DJ7P81,Diamond Black Crystal Pearlcoat,8,"Laramie 4x4 Mega Cab 6'4"" Box",4,3C6UR5NL0PG516640,90035,31,FALSE,,,Diesel,Four Wheel Drive,6-Speed Automatic
+NEW,2023,Jeep,Renegade,BVJM74,Alpine White Clearcoat,4,Altitude 4x4,4,ZACNJDE1XPPP11198,37625,12,FALSE,23,29,Gasoline,Four Wheel Drive,9-Speed 948TE Automatic
+NEW,2023,Ram,1500,DT6X98,Bright White Clearcoat,6,"Rebel 4x4 Crew Cab 5'7"" Box",4,1C6SRFLT7PN567771,63415,14,FALSE,17,22,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Compass,MPJM74,Diamond Black Crystal Pearlcoat,4,Latitude 4x4,4,3C4NJDBN5PT526818,36380,12,FALSE,24,32,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Grand Cherokee 4xe,WLXS74,Diamond Black Crystal Pearlcoat,4,Overland 4x4,4,1C4RJYD65P8849165,72325,0,FALSE,,,Hybrid,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Ram,1500,DT6X98,Bright White Clearcoat,6,"Rebel 4x4 Crew Cab 5'7"" Box",4,1C6SRFLT1PN581505,66325,7,FALSE,17,22,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Compass,MPJM74,Bright White Clearcoat,4,Latitude 4x4,4,3C4NJDBN6PT528075,35885,5,FALSE,24,32,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Ram,1500,DT6X98,Granite Crystal Metallic Clearcoat,6,"Rebel 4x4 Crew Cab 5'7"" Box",4,1C6SRFLT5PN581510,66575,15,FALSE,17,22,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Compass,MPJM74,Diamond Black Crystal Pearlcoat,4,Latitude 4x4,4,3C4NJDBN4PT528088,36380,5,FALSE,24,32,Gasoline,Four Wheel Drive,8-Speed Automatic
+USED,2022,Ram,1500,DT6H98,Bright White Clearcoat,6,"Big Horn 4x4 Crew Cab 5'7"" Box",4,1C6SRFFT0NN410110,54888,4618,FALSE,18,22,Gasoline,Four Wheel Drive,8-Speed Automatic
+USED,2020,Jeep,Compass,MPJP74,Jazz Blue Pearlcoat,4,High Altitude 4x4,4,3C4NJDCBXLT128017,29888,37449,FALSE,22,30,Gasoline,Four Wheel Drive,9-Speed 948TE Automatic
+NEW,2023,Ram,1500,DT6M98,Diamond Black Crystal Pearlcoat,8,"Limited 4x4 Crew Cab 5'7"" Box",4,1C6SRFHM7PN513680,84860,14,FALSE,21,29,Diesel,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Compass,MPJM74,Bright White Clearcoat,4,Latitude 4x4,4,3C4NJDBNXPT528077,35885,5,FALSE,24,32,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Wrangler,JLJP74,Earl Clearcoat,4,Sahara Altitude 4 Door 4x4,4,1C4HJXEN7PW651789,56165,12,FALSE,21,24,Gasoline,Four Wheel Drive,8-Speed Automatic
+USED,2022,Chrysler,300,LXFH48,Bright White Clearcoat,6,Touring AWD,4,2C3CCARG3NH174503,38988,13676,FALSE,18,27,Gasoline,All Wheel Drive,8-Speed Automatic
+NEW,2023,Ram,1500,DT6X98,Bright White Clearcoat,6,"Rebel 4x4 Crew Cab 5'7"" Box",4,1C6SRFLT3PN581506,66325,16,FALSE,17,22,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Compass,MPJM74,Diamond Black Crystal Pearlcoat,4,Latitude 4x4,4,3C4NJDBN2PT528087,36380,6,FALSE,24,32,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Grand Cherokee 4xe,WLXT74,Bright White Clearcoat,4,Summit Reserve 4x4,4,1C4RJYE6XP8836944,81105,12,FALSE,,,Hybrid,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Compass,MPJM74,Diamond Black Crystal Pearlcoat,4,Latitude 4x4,4,3C4NJDBN0PT528086,36380,6,FALSE,24,32,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Renegade,BVJM74,Alpine White Clearcoat,4,Altitude 4x4,4,ZACNJDE14PPP16106,35030,11,FALSE,23,29,Gasoline,Four Wheel Drive,9-Speed 948TE Automatic
+USED,2020,Jeep,Grand Cherokee,WKJH74,Bright White Clearcoat,6,Upland 4x4,4,1C4RJFAG6LC126417,31988,39332,FALSE,18,25,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Wrangler 4xe,JLXL74,White Knuckle Clearcoat,4,4x4,4,1C4JJXN68PW683838,61345,5,FALSE,,,Hybrid,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Wrangler 4xe,JLXL74,Sting-Gray Clearcoat,4,4x4,4,1C4JJXN68PW689462,61840,5,FALSE,,,Hybrid,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Wrangler 4xe,JLXL74,Black Clearcoat,4,4x4,4,1C4JJXN68PW689588,60645,8,FALSE,,,Hybrid,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Ram,1500,DT6H41,Patriot Blue Pearlcoat,6,"Big Horn 4x4 Quad Cab 6'4"" Box",4,1C6SRFBT7PN589934,56505,6,FALSE,17,22,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Ram,1500,DT6X98,Diamond Black Crystal Pearlcoat,6,"Rebel 4x4 Crew Cab 5'7"" Box",4,1C6SRFLT5PN581507,66525,28,FALSE,17,22,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Compass,MPJM74,Bright White Clearcoat,4,Latitude 4x4,4,3C4NJDBN8PT528076,35885,5,FALSE,24,32,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Ram,ProMaster Cargo Van,VF2L13,Bright White Clearcoat,6,"2500 High Roof 136"" WB",3,3C6LRVCG6PE529860,54485,0,FALSE,,,Gasoline,Front Wheel Drive,9-Speed 948TE Automatic
+USED,2021,Ram,ProMaster Cargo Van,VF2L16,Bright White Clearcoat,6,"2500 High Roof 159"" WB",3,3C6LRVDG4ME570143,50988,23486,FALSE,,,Gasoline,Front Wheel Drive,6-Speed Automatic
+USED,2021,Ram,ProMaster Cargo Van,VF2L16,Bright White Clearcoat,6,"2500 High Roof 159"" WB",3,3C6LRVDG9ME532374,50988,22195,FALSE,,,Gasoline,Front Wheel Drive,6-Speed Automatic
+USED,2018,Jeep,Wrangler Unlimited,JLJL74,Black Clearcoat,6,Sport 4x4,4,1C4HJXDG7JW264850,31988,60295,FALSE,18,23,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Wrangler 4xe,JLXL74,Firecracker Red Clearcoat,4,4x4,4,1C4JJXN67PW689453,61840,13,FALSE,,,Hybrid,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Grand Cherokee 4xe,WLXR74,Bright White Clearcoat,4,Trailhawk 4x4,4,1C4RJYC67P8794610,68500,12,FALSE,,,Hybrid,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Grand Cherokee 4xe,WLXT74,Bright White Clearcoat,4,Summit Reserve 4x4,4,1C4RJYE68P8836943,81105,15,FALSE,,,Hybrid,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Wrangler 4xe,JLXL74,Sarge Green Clearcoat,4,4x4,4,1C4JJXN68PW689459,61840,5,FALSE,,,Hybrid,Four Wheel Drive,8-Speed Automatic
+USED,2018,Jeep,Wrangler Unlimited,JLJP74,Bright White Clearcoat,6,Sahara 4x4,4,1C4HJXEN8JW302650,36988,75936,FALSE,22,24,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Wrangler 4xe,JLXL74,White Knuckle Clearcoat,4,4x4,4,1C4JJXN6XPW683839,61345,12,FALSE,,,Hybrid,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Compass,MPJM74,Diamond Black Crystal Pearlcoat,4,Latitude 4x4,4,3C4NJDBNXPT528080,36380,5,FALSE,24,32,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Wrangler 4xe,JLXL74,Black Clearcoat,4,4x4,4,1C4JJXN64PW683836,61840,12,FALSE,,,Hybrid,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Compass,MPJM74,Diamond Black Crystal Pearlcoat,4,Latitude 4x4,4,3C4NJDBN1PT528081,36380,5,FALSE,24,32,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Compass,MPJM74,Diamond Black Crystal Pearlcoat,4,Latitude 4x4,4,3C4NJDBN7PT528084,36380,5,FALSE,24,32,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Compass,MPJM74,Diamond Black Crystal Pearlcoat,4,Latitude 4x4,4,3C4NJDBN9PT528085,36380,5,FALSE,24,32,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Ram,ProMaster Cargo Van,VF1L13,Bright Silver Metallic Clearcoat,6,"1500 High Roof 136"" WB",3,3C6LRVBG7PE548564,53705,0,FALSE,,,Gasoline,Front Wheel Drive,9-Speed 948TE Automatic
+NEW,2023,Jeep,Wagoneer,WSJP75,Bright White Clearcoat,6,Series III 4x4,4,1C4SJVDP2PS507233,82005,5,FALSE,16,23,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Ram,1500,DT6M98,Bright White Clearcoat,8,"Limited 4x4 Crew Cab 5'7"" Box",4,1C6SRFHT1PN601647,80200,12,FALSE,17,22,Diesel,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Compass,MPJM74,Bright White Clearcoat,4,Latitude 4x4,4,3C4NJDBN1PT528078,35885,5,FALSE,24,32,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Wagoneer,WSJP75,Bright White Clearcoat,6,Series III 4x4,4,1C4SJVDP4PS507234,82005,0,FALSE,17,24,Gasoline,Four Wheel Drive,8-Speed Automatic
+USED,2022,Dodge,Charger,LDDS48,White Knuckle Clearcoat,6,GT RWD,4,2C3CDXHGXNH192997,39988,13055,FALSE,19,30,Gasoline,Rear Wheel Drive,8-Speed Automatic
+USED,2022,Dodge,Charger,LDDS48,Granite Crystal Metallic Clearcoat,6,GT RWD,4,2C3CDXHG1NH119212,39988,14466,FALSE,19,30,Gasoline,Rear Wheel Drive,8-Speed Automatic
+USED,2017,Jeep,Wrangler Unlimited,JKJM74,Firecracker Red Clearcoat,6,Sport 4x4,4,1C4BJWDG2HL530206,25888,108456,FALSE,16,21,Gasoline,Four Wheel Drive,5-Speed Automatic
+USED,2017,Jeep,Compass,MKJM49,Granite Crystal Metallic Clearcoat,4,High Altitude 4x4 *Ltd Avail*,4,1C4NJDEB3HD100313,20988,33403,FALSE,20,25,Gasoline,Four Wheel Drive,6-Speed Automatic
+NEW,2023,Jeep,Compass,MPJM74,Diamond Black Crystal Pearlcoat,4,Latitude 4x4,4,3C4NJDBN3PT528082,36380,12,FALSE,24,32,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Ram,3500,D28H91,Granite Crystal Metallic Clearcoat,8,"Big Horn 4x4 Crew Cab 6'4"" Box",4,3C63R3DL3PG512681,80830,0,FALSE,,,Diesel,Four Wheel Drive,Aisin 6-Speed Automatic
+USED,2022,Jeep,Wrangler,JLJL74,Bright White Clearcoat,6,Unlimited High Tide 4x4,4,1C4HJXDG2NW252725,54988,6171,FALSE,19,24,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Compass,MPJM74,Diamond Black Crystal Pearlcoat,4,Latitude 4x4,4,3C4NJDBN5PT528083,36380,5,FALSE,24,32,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Compass,MPJM74,Granite Crystal Metallic Clearcoat,4,Latitude 4x4,4,3C4NJDBN9PT534369,36380,0,FALSE,24,32,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Compass,MPJM74,Granite Crystal Metallic Clearcoat,4,Latitude 4x4,4,3C4NJDBN2PT534374,36380,5,FALSE,24,32,Gasoline,Four Wheel Drive,8-Speed Automatic
+USED,2019,Jeep,Wrangler Unlimited,JLJS74,Sting-Gray Clearcoat,6,Rubicon 4x4,4,1C4HJXFG3KW619592,39888,70855,FALSE,18,23,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Wagoneer,WSJP75,Diamond Black Crystal Pearlcoat,6,Series III 4x4,4,1C4SJVDP8PS507236,82650,0,FALSE,17,24,Gasoline,Four Wheel Drive,8-Speed Automatic
+USED,2021,Ram,1500,DT6H91,Diamond Black Crystal Pearlcoat,6,"Big Horn 4x4 Crew Cab 6'4"" Box",4,1C6SRFMT2MN572323,45888,24030,FALSE,15,21,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Grand Cherokee L,WLJT75,Diamond Black Crystal Pearlcoat,6,Summit Reserve 4x4,4,1C4RJKEG2P8821330,74040,10,FALSE,18,25,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Wagoneer,WSJP75,Diamond Black Crystal Pearlcoat,6,Series III 4x4,4,1C4SJVDP6PS507235,82650,10,FALSE,17,24,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Grand Cherokee,WLJT74,Hydro Blue Pearlcoat,6,Summit Reserve 4x4,4,1C4RJHEG9P8762442,72880,5,FALSE,19,26,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Grand Cherokee L,WLJT75,Velvet Red Pearlcoat,6,Summit Reserve 4x4,4,1C4RJKEG4P8821331,74040,12,FALSE,18,25,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Ram,ProMaster Cargo Van,VF2L13,Bright White Clearcoat,6,"2500 High Roof 136"" WB",3,3C6LRVCG9PE552047,52765,0,FALSE,,,Gasoline,Front Wheel Drive,9-Speed 948TE Automatic
+NEW,2023,Jeep,Compass,MPJE74,Diamond Black Crystal Pearlcoat,4,Latitude Lux,4,3C4NJDFN0PT544525,38365,0,FALSE,24,32,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Grand Cherokee L,WLJT75,Bright White Clearcoat,6,Summit Reserve 4x4,4,1C4RJKEG2P8821327,73545,5,FALSE,18,25,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Grand Cherokee 4xe,WLXP74,Silver Zynith,4,4x4,4,1C4RJYB62PC595561,66445,12,FALSE,,,Hybrid,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Grand Cherokee L,WLJT75,Bright White Clearcoat,6,Summit Reserve 4x4,4,1C4RJKEG4P8821328,73545,8,FALSE,18,25,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Compass,MPJE74,Diamond Black Crystal Pearlcoat,4,Latitude Lux,4,3C4NJDFN6PT544531,38365,5,FALSE,24,32,Gasoline,Four Wheel Drive,8-Speed Automatic
+USED,2013,Jeep,Wrangler Unlimited,JKJM74,Billet Metallic Clearcoat,6,4WD 4dr Sport,4,1C4BJWDG1DL548707,19988,101248,FALSE,16,21,Gasoline,Four Wheel Drive,6-Speed Manual
+USED,2020,Jeep,Cherokee,KLJP74,Velvet Red Pearlcoat,6,Limited 4x4,4,1C4PJMDX8LD510555,28988,35179,FALSE,19,27,Gasoline,Four Wheel Drive,9-Speed 948TE Automatic
+NEW,2023,Jeep,Compass,MPJE74,Bright White Clearcoat,4,Latitude Lux,4,3C4NJDFN5PT544522,37870,0,FALSE,24,32,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Grand Cherokee L,WLJP75,Rocky Mountain Pearlcoat,6,Limited 4x4,4,1C4RJKBG2P8862707,55435,16,FALSE,18,25,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Grand Cherokee L,WLJP75,Midnight Sky,6,Limited 4x4,4,1C4RJKBG4P8809460,54685,12,FALSE,18,25,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Ram,ProMaster Cargo Van,VF1L13,Bright Silver Metallic Clearcoat,6,"1500 High Roof 136"" WB",3,3C6LRVBG9PE548565,53705,0,FALSE,,,Gasoline,Front Wheel Drive,9-Speed 948TE Automatic
+NEW,2023,Jeep,Compass,MPJE74,Granite Crystal Metallic Clearcoat,4,Latitude Lux,4,3C4NJDFN7PT544537,38365,12,FALSE,24,32,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Grand Cherokee,WLJS74,Midnight Sky,6,Overland 4x4,4,1C4RJHDG2P8846717,65805,12,FALSE,19,26,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Grand Cherokee L,WLTH75,Bright White Clearcoat,6,Laredo 4x2,4,1C4RJJAG2P8790564,47070,0,FALSE,19,26,Gasoline,Rear Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Compass,MPJE74,Granite Crystal Metallic Clearcoat,4,Latitude Lux,4,3C4NJDFN1PT544534,38365,10,FALSE,24,32,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Compass,MPJE74,Diamond Black Crystal Pearlcoat,4,Latitude Lux,4,3C4NJDFN4PT544527,38365,13,FALSE,24,32,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Compass,MPJE74,Granite Crystal Metallic Clearcoat,4,Latitude Lux,4,3C4NJDFN5PT544536,38365,5,FALSE,24,32,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Compass,MPJE74,Diamond Black Crystal Pearlcoat,4,Latitude Lux,4,3C4NJDFN7PT544523,38365,0,FALSE,24,32,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Dodge,Hornet,GGEH49,Blue Steele,4,GT AWD,4,ZACNDFAN7P3A02766,32680,15,FALSE,21,29,Gasoline,All Wheel Drive,9-Speed 948TE Automatic
+NEW,2023,Jeep,Grand Cherokee L,WLJT75,Bright White Clearcoat,6,Summit Reserve 4x4,4,1C4RJKEG4P8805064,75925,5,FALSE,18,25,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2022,Jeep,Cherokee,KLJH74,Diamond Black Crystal Pearlcoat,6,Trailhawk 4x4,4,1C4PJMBX9ND518024,42780,3,FALSE,18,24,Gasoline,Four Wheel Drive,9-Speed 948TE Automatic
+NEW,2023,Jeep,Grand Cherokee,WLJS74,Midnight Sky,6,Overland 4x4,4,1C4RJHDG6P8846719,65805,4,FALSE,19,26,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Grand Cherokee 4xe,WLXS74,Diamond Black Crystal Pearlcoat,4,Overland 4x4,4,1C4RJYD68PC595741,72325,17,FALSE,,,Hybrid,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Compass,MPJE74,Granite Crystal Metallic Clearcoat,4,Latitude Lux,4,3C4NJDFN3PT544535,38365,13,FALSE,24,32,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Compass,MPJE74,Diamond Black Crystal Pearlcoat,4,Latitude Lux,4,3C4NJDFN6PT544528,38365,12,FALSE,24,32,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Compass,MPJE74,Diamond Black Crystal Pearlcoat,4,Latitude Lux,4,3C4NJDFN4PT544530,38365,5,FALSE,24,32,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Grand Cherokee,WLJS74,Diamond Black Crystal Pearlcoat,6,Overland 4x4,4,1C4RJHDG0PC573144,65805,5,FALSE,19,26,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Wagoneer,WSJP75,Diamond Black Crystal Pearlcoat,6,Series III 4x4,4,1C4SJVDPXPS507237,82650,5,FALSE,17,24,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Compass,MPJE74,Diamond Black Crystal Pearlcoat,4,Latitude Lux,4,3C4NJDFN2PT544526,38365,0,FALSE,24,32,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Compass,MPJE74,Diamond Black Crystal Pearlcoat,4,Latitude Lux,4,3C4NJDFN8PT544529,38365,10,FALSE,24,32,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Compass,MPJE74,Diamond Black Crystal Pearlcoat,4,Latitude Lux,4,3C4NJDFN9PT544524,38365,5,FALSE,24,32,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Compass,MPJE74,Granite Crystal Metallic Clearcoat,4,Latitude Lux,4,3C4NJDFN0PT544539,38365,0,FALSE,24,32,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Compass,MPJE74,Diamond Black Crystal Pearlcoat,4,Latitude Lux,4,3C4NJDFN8PT544532,38365,6,FALSE,24,32,Gasoline,Four Wheel Drive,8-Speed Automatic
+USED,2020,Dodge,Charger,LDDR48,Granite Crystal Metallic Clearcoat,8,Scat Pack RWD,4,2C3CDXGJ6LH107356,50988,16892,FALSE,15,24,Gasoline,Rear Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Grand Cherokee 4xe,WLXP74,Silver Zynith,4,4x4,4,1C4RJYB60PC595560,66445,4,FALSE,,,Hybrid,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Compass,MPJE74,Granite Crystal Metallic Clearcoat,4,Latitude Lux,4,3C4NJDFN9PT544538,38365,8,FALSE,24,32,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Compass,MPJE74,Granite Crystal Metallic Clearcoat,4,Latitude Lux,4,3C4NJDFNXPT544533,38365,0,FALSE,24,32,Gasoline,Four Wheel Drive,8-Speed Automatic
+USED,2020,Ram,2500,DJ7R91,Pearl White,8,"Longhorn 4x4 Crew Cab 6'4"" Box",4,3C6UR5GLXLG178350,70000,45296,FALSE,,,Diesel,Four Wheel Drive,6-Speed Automatic
+NEW,2023,Ram,ProMaster Cargo Van,VF1L13,Bright White Clearcoat,6,"1500 High Roof 136"" WB",3,3C6LRVBG2PE548567,53100,0,FALSE,,,Gasoline,Front Wheel Drive,9-Speed 948TE Automatic
+USED,2020,Jeep,Grand Cherokee,WKJH74,Bright White Clearcoat,6,Laredo E 4x4,4,1C4RJFAG9LC299137,30488,44831,FALSE,18,25,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Wrangler 4xe,JLXL74,Sting-Gray Clearcoat,4,4x4,4,1C4JJXN6XPW683713,60640,12,FALSE,,,Hybrid,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Ram,1500,DT6R98,Diamond Black Crystal Pearlcoat,6,"Longhorn 4x4 Crew Cab 5'7"" Box",4,1C6SRFKT5PN616385,79900,10,FALSE,17,22,Gasoline,Four Wheel Drive,8-Speed Automatic
+USED,2017,Jeep,Wrangler Unlimited,JKJM74,Black Clearcoat,6,Sport 4x4,4,1C4BJWDG3HL579530,31988,55670,FALSE,16,21,Gasoline,Four Wheel Drive,5-Speed Automatic
+USED,2020,Jeep,Wrangler,JLJL72,Bright White Clearcoat,6,Sport S 4x4,2,1C4GJXAN6LW229086,34988,32034,FALSE,22,24,Gasoline,Four Wheel Drive,8-Speed Automatic
+USED,2018,Jeep,Wrangler Unlimited,JLJL74,Black Clearcoat,6,Sport S 4x4,4,1C4HJXDN7JW215419,35988,58940,FALSE,22,24,Gasoline,Four Wheel Drive,8-Speed Automatic
+USED,2015,Dodge,Charger,LDDP48,Pitch Black,8,4dr Sdn Road/Track RWD,4,2C3CDXCT5FH813553,26888,46113,FALSE,16,25,Gasoline,Rear Wheel Drive,8-Speed Automatic
+NEW,2023,Ram,1500,DT6R98,Ivory White Tri-Coat Pearlcoat,6,"Longhorn 4x4 Crew Cab 5'7"" Box",4,1C6SRFKT3PN616384,80495,11,FALSE,17,22,Gasoline,Four Wheel Drive,8-Speed Automatic
+USED,2020,Jeep,Grand Cherokee,WKJP74,Walnut Brown Metallic Clearcoat,6,Limited 4x4,4,1C4RJFBG6LC181268,34788,32464,FALSE,18,25,Gasoline,Four Wheel Drive,8-Speed Automatic
+USED,2020,Jeep,Grand Cherokee,WKJH74,Diamond Black Crystal Pearlcoat,6,Altitude 4x4,4,1C4RJFAG8LC145020,36988,25977,FALSE,18,25,Gasoline,Four Wheel Drive,8-Speed Automatic
+USED,2018,Jeep,Cherokee,KLJP74,Hydro Blue Pearlcoat,4,Limited 4x4,4,1C4PJMDX0JD549394,24788,49110,FALSE,18,26,Gasoline,Four Wheel Drive,9-Speed 948TE Automatic
+NEW,2023,Jeep,Wrangler 4xe,JLXL74,Granite Crystal Metallic Clearcoat,4,4x4,4,1C4JJXN60PW689455,61840,5,FALSE,,,Hybrid,Four Wheel Drive,8-Speed Automatic
+USED,2019,Jeep,Grand Cherokee,WKJH74,Bright White Clearcoat,6,Altitude 4x4,4,1C4RJFAG5KC787368,31988,56076,FALSE,18,25,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Chrysler,Pacifica,RUET53,Velvet Red Pearlcoat,6,Hybrid Limited FWD,4,2C4RC1S76PR543464,56985,9,FALSE,,,Hybrid,Front Wheel Drive,CVT
+NEW,2023,Jeep,Wrangler 4xe,JLXL74,Granite Crystal Metallic Clearcoat,4,4x4,4,1C4JJXN62PW689456,61840,10,FALSE,,,Hybrid,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Wrangler 4xe,JLXL74,Hydro Blue Pearl Coat,4,4x4,4,1C4JJXN64PW689457,61840,6,FALSE,,,Hybrid,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Chrysler,Pacifica,RUET53,Ceramic Gray Clearcoat,6,Hybrid Limited FWD,4,2C4RC1S74PR543463,59780,12,FALSE,,,Hybrid,Front Wheel Drive,CVT
+USED,2020,Jeep,Compass,MPJM74,Diamond Black Crystal Pearlcoat,4,Altitude 4x4,4,3C4NJDBB3LT240501,25988,21960,FALSE,22,30,Gasoline,Four Wheel Drive,9-Speed 948TE Automatic
+NEW,2023,Jeep,Compass,MPJP74,Billet Silver Metallic Clearcoat,4,Limited 4x4,4,3C4NJDCN4PT554558,43160,0,FALSE,24,32,Gasoline,Four Wheel Drive,8-Speed Automatic
+USED,2021,Jeep,Grand Cherokee,WKJP74,Diamond Black Crystal Pearlcoat,6,Limited 4x4,4,1C4RJFBG5MC780406,36988,34032,FALSE,18,25,Gasoline,Four Wheel Drive,8-Speed Automatic
+USED,2017,Jeep,Wrangler,JKJL72,Bright White Clearcoat,6,Sport 4x4,2,1C4AJWAG5HL574653,26988,65915,FALSE,17,21,Gasoline,Four Wheel Drive,5-Speed Automatic
+NEW,2023,Dodge,Challenger,LAEL22,Triple Nickel Clearcoat,6,GT AWD,2,2C3CDZKG7PH575223,46650,0,FALSE,18,27,Gasoline,All Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Compass,MPJP74,Bright White Clearcoat,4,Limited 4x4,4,3C4NJDCN4PT554561,42665,0,FALSE,24,32,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Compass,MPJH74,Billet Silver Metallic Clearcoat,4,Trailhawk 4x4,4,3C4NJDDN1PT554614,43650,0,FALSE,24,32,Gasoline,Four Wheel Drive,8-Speed Automatic
+USED,2021,Jeep,Grand Cherokee L,WLJH75,Diamond Black Crystal Pearlcoat,6,Altitude 4x4,4,1C4RJKAG6M8171466,39888,58855,FALSE,18,25,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Grand Cherokee 4xe,WLXP74,Bright White Clearcoat,4,4x4,4,1C4RJYB67P8773676,61660,119,FALSE,,,Hybrid,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Compass,MPJP74,Sting-Gray Clearcoat,4,Limited 4x4,4,3C4NJDCN3PT554566,43160,0,FALSE,24,32,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Compass,MPJP74,Billet Silver Metallic Clearcoat,4,Limited 4x4,4,3C4NJDCN6PT554559,43160,0,FALSE,24,32,Gasoline,Four Wheel Drive,8-Speed Automatic
+USED,2018,Jeep,Renegade,BUJM74,Alpine White,4,Latitude 4x4,4,ZACCJBBB1JPG84380,20888,47630,FALSE,21,29,Gasoline,Four Wheel Drive,9-Speed 948TE Automatic
+NEW,2023,Jeep,Wrangler 4xe,JLXP74,Sting-Gray Clearcoat,4,Sahara 4x4,4,1C4JJXP63PW556623,64660,186,FALSE,,,Hybrid,Four Wheel Drive,8-Speed Automatic
+USED,2019,Jeep,Wrangler Unlimited,JLJP74,Granite Crystal Metallic Clearcoat,6,Sahara 4x4,4,1C4HJXEN3KW542917,38888,60490,FALSE,22,24,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Grand Cherokee L,WLJH75,Baltic Gray Metallic Clearcoat,6,Altitude 4x4,4,1C4RJKAGXP8869809,55045,0,FALSE,18,25,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Wrangler 4xe,JLXL74,Hydro Blue Pearl Coat,4,4x4,4,1C4JJXN66PW689458,61840,53,FALSE,,,Hybrid,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Dodge,Durango,WDES75,DB Black Crystal Clearcoat,8,R/T Plus AWD,4,1C4SDJCTXPC591780,60440,0,FALSE,14,22,Gasoline,All Wheel Drive,8-Speed Automatic
+USED,2019,Jeep,Cherokee,KLJP74,Diamond Black Crystal Pearlcoat,6,Limited 4x4,4,1C4PJMDX0KD252692,29888,25842,FALSE,19,27,Gasoline,Four Wheel Drive,9-Speed 948TE Automatic
+USED,2017,Ram,1500,DS6L98,Brilliant Black Crystal Pearlcoat,6,"Express 4x4 Crew Cab 5'7"" Box",4,3C6RR7KT7HG573828,28988,75864,FALSE,15,21,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Dodge,Challenger,LAEL22,Sublime Metallic Clearcoat,6,GT AWD,2,2C3CDZKG5PH575222,48540,0,FALSE,18,27,Gasoline,All Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Wrangler,JLJL74,Sting-Gray Clearcoat,6,Sport Altitude 4 Door 4x4,4,1C4HJXDG2PW635762,55275,0,FALSE,19,24,Gasoline,Four Wheel Drive,8-Speed Automatic
+USED,2021,Dodge,Durango,WDEM75,White Knuckle Clearcoat,8,SRT Hellcat AWD,4,1C4SDJH94MC882882,91988,7420,FALSE,12,17,Gasoline,All Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Wrangler,JLJL74,Sarge Green Clearcoat,6,Sport S 4 Door 4x4,4,1C4HJXDG2PW624390,50585,0,FALSE,19,24,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Dodge,Durango,WDES75,White Knuckle Clearcoat,8,R/T Plus AWD,4,1C4SDJCTXPC604737,60440,0,FALSE,14,22,Gasoline,All Wheel Drive,8-Speed Automatic
+NEW,2023,Jeep,Grand Cherokee L,WLJP75,Midnight Sky,6,Limited 4x4,4,1C4RJKBG0P8842536,63995,0,FALSE,18,25,Gasoline,Four Wheel Drive,8-Speed Automatic
+NEW,2023,Dodge,Durango,WDES75,DB Black Crystal Clearcoat,8,R/T Plus AWD,4,1C4SDJCT3PC591782,60440,0,FALSE,14,22,Gasoline,All Wheel Drive,8-Speed Automatic
+USED,2020,Jeep,Grand Cherokee,WKJP74,Velvet Red Pearlcoat,6,Limited X 4x4,4,1C4RJFBG4LC105287,38988,28598,FALSE,18,25,Gasoline,Four Wheel Drive,8-Speed Automatic
+USED,2020,Jeep,Grand Cherokee,WKJP74,Bright White Clearcoat,6,Limited X 4x4,4,1C4RJFBG9LC240040,42988,7395,FALSE,18,25,Gasoline,Four Wheel Drive,8-Speed Automatic
+USED,2016,Dodge,Challenger,LADP22,Pitch Black Clearcoat,8,2dr Cpe R/T Plus,2,2C3CDZBT0GH284480,32488,30299,FALSE,16,25,Gasoline,Rear Wheel Drive,8-Speed Automatic
+USED,2020,Jeep,Compass,MPJM74,Velvet Red Pearlcoat,4,Latitude 4x4,4,3C4NJDBB5LT197649,25888,4944,FALSE,22,31,Gasoline,Four Wheel Drive,9-Speed 948TE Automatic
+USED,2020,Chrysler,Voyager,RUCL53,billet silver metallic clearcoat,6,LX FWD,4,2C4RC1CG3LR132225,33888,4084,FALSE,19,28,Gasoline,Front Wheel Drive,9-Speed 948TE Automatic
+USED,2019,Dodge,Charger,LDES48,Octane Red Pearlcoat,6,SXT AWD,4,2C3CDXJG1KH710937,30988,1026,FALSE,18,27,Gasoline,All Wheel Drive,8-Speed Automatic
+USED,2020,Subaru,Impreza,LLD,Crimson Red Pearl,4,Premium 5-door CVT,4,4S3GTAD63L3701080,26273,4253,FALSE,28,36,Gasoline,All Wheel Drive,CVT Lineartronic
